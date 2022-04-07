@@ -1,0 +1,7 @@
+62.231.141.193 - - [28/Apr/2011:05:41:15 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.3.3; http://www.majestic12.co.uk/bot.php?+)"
+24.253.86.31 - - [28/Apr/2011:06:39:07 -0700] "GET /home.swf HTTP/1.1" 200 1418 "http://www.crazymountaininn.com/" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; en-us) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27"
+216.2.145.194 - - [28/Apr/2011:08:35:54 -0700] "GET /crazylogo.jpg HTTP/1.1" 200 13140 "http://www.crazymountaininn.com/" "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.12) Gecko/2009072711 CentOS/3.0.12-1.el5.centos Firefox/3.0.12"
+207.46.199.52 - - [28/Apr/2011:09:42:37 -0700] "GET /robots.txt HTTP/1.1" 404 216 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+193.46.86.228 - - [28/Apr/2011:10:13:21 -0700] "GET /attractions/mountains.jpg HTTP/1.1" 200 12627 "http://crazymountaininn.com/attractions.htm" "Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9.2.16) Gecko/20110323 Ubuntu/10.10 (maverick) Firefox/3.6.16"
+193.46.86.228 - - [28/Apr/2011:10:13:23 -0700] "GET /rooms/line.gif HTTP/1.1" 200 48 "http://crazymountaininn.com/rooms.htm" "Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9.2.16) Gecko/20110323 Ubuntu/10.10 (maverick) Firefox/3.6.16"
+193.46.86.228 - - [28/Apr/2011:10:13:28 -0700] "GET /contact.htm HTTP/1.1" 200 6191 "http://crazymountaininn.com/restaurant.htm" "Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9.2.16) Gecko/20110323 Ubuntu/10.10 (maverick) Firefox/3.6.16"

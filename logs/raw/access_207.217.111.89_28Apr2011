@@ -1,0 +1,4 @@
+193.46.86.228 - - [28/Apr/2011:06:27:05 -0700] "GET / HTTP/1.1" 200 8329 "-" "Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML, like Gecko) Qt/4.6.3 Safari/532.4"
+193.46.86.228 - - [28/Apr/2011:06:27:58 -0700] "HEAD /rooms.htm HTTP/1.1" 200 0 "-" "Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML, like Gecko) Qt/4.6.3 Safari/532.4"
+193.46.86.228 - - [28/Apr/2011:06:27:58 -0700] "GET /rooms.htm HTTP/1.1" 200 7271 "-" "Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML, like Gecko) Qt/4.6.3 Safari/532.4"
+193.46.86.228 - - [28/Apr/2011:10:13:21 -0700] "GET /attractions/letterA.gif HTTP/1.1" 200 142 "http://crazymountaininn.com/attractions.htm" "Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9.2.16) Gecko/20110323 Ubuntu/10.10 (maverick) Firefox/3.6.16"
